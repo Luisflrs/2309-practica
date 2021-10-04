@@ -9,7 +9,7 @@ namespace Practica2309Clases
     class Country
     {
         //DEFINIR MIEMBROS DE LA CLASE
-        //propiedades/atributos/datos
+        //propiedades/atributos/datos 
         private int _countryId;
         private string _name;
         private string _population;
